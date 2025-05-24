@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2050'ye Doğru: Dünya</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0a0a0a;
+      color: #f0f0f0;
+      margin: 0;
+      padding: 20px;
+      background-image: url("https://res.cloudinary.com/dcskrujlj/image/upload/v1747400043/ChatGPT_Image_May_16_2025_04_53_54_PM_vpkhyi.png");
+      background-size: cover;
+      background-attachment: fixed;
+      background-position: center;
+    }
+
+    h1 {
+      font-size: 48px;
+      text-align: center;
+      margin-bottom: 10px;
+      margin-top: 20px;
+      color: #00ffae;
+    }
+
+    h2 {
+      font-size: 28px;
+      text-align: center;
+      margin-top: 30px;
+      color: #aadfff;
+    }
+
+    p {
+      font-size: 16px;
+      line-height: 1.7;
+      max-width: 800px;
+      margin: 15px auto;
+      background-color: rgba(0, 0, 0, 0.6);
+      padding: 15px 20px;
+      border-radius: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>GEZEGEN DÜNYA</h1>
+
+  <p><b>Dünya</b>, yaşamın merkezidir. Ancak 21. yüzyılda karşı karşıya kaldığı sorunlar; iklim krizi, çevre kirliliği, kaynak tükenmesi ve teknolojik dengesizliklerdir. Bu site, <b>2050</b> yılına kadar insanları bilinçlendirme misyonuyla oluşturulmuştur.</p>
+
+  <h2>Dünya'nın temel zorlukları ve gelecek vizyonu</h2>
+
+  <p><b>1. İklim Değişikliği:</b> Küresel sıcaklıklar artmakta, buzullar erimekte ve deniz seviyeleri yükselmektedir. Bu durumu tersine çevirmek için yenilenebilir enerji ve ekolojik farkındalık şarttır.</p>
+
+  <p><b>2. Ormansızlaşma:</b> Her yıl milyonlarca hektar orman yok oluyor. Ağaçlandırma kampanyaları, çevre eğitimleri ve sürdürülebilir tarım politikaları bu süreci durdurmak için önemlidir.</p>
+
+  <p><b>3. Bilgi ve Farkındalık Eksikliği:</b> İnsanların büyük kısmı bu sorunlardan habersiz. Bu yüzden 2050’ye kadar herkesin erişebileceği eğitim içerikleri ve farkındalık projeleri hayati önemdedir.</p>
+
+  <p><b>4. Teknolojinin Rolü:</b> Yapay zeka, veri bilimi ve temiz enerji teknolojileri; gezegeni kurtarmak için büyük fırsatlar sunuyor. Ancak bu araçlar etik ve bilinçli kullanılmalı.</p>
+
+  <p><b>5. Küresel İşbirliği:</b> Dünya'nın geleceği tek bir ulusun değil, tüm insanlığın sorumluluğudur. 2050'ye kadar ortak hareket, ortak değerler ve bilinçli bireyler bir dönüşüm yaratabilir.</p>
+
+</body>
+</html>
